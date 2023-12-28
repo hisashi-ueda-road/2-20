@@ -2,7 +2,7 @@ package study;
 
 //①Parent（親クラス）を継承して下さい
     
-    class Child extends Parent{
+    public class Child extends Parent{
         
   //②親クラスのnameメソッドを呼び出すcallNameメソッドを作成して下さい。
         public void callName() {
